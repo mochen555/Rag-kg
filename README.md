@@ -1,4 +1,4 @@
-# Knowledge Graph Visualization from Markdown
+# Knowledge Graph Visualization from Markdown# Markdown的知识图谱可视化
 
 这是一个从Markdown格式文本中提取结构化内容并生成交互式知识图谱可视化系统的工具。
 
@@ -13,7 +13,7 @@
 ## 架构设计
 
 ```
-project/
+project/   项目/   项目/
 ├── config.py             # 配置文件
 ├── data_structures.py    # 数据结构定义
 ├── text_processor.py     # 文本处理逻辑
@@ -25,14 +25,14 @@ project/
 ## 安装说明
 
 1. **克隆仓库**
-```bash   ”“bash
-git clone https://github.com/your-username/knowledge-graph-visualization.git
+```bash   ”“bash   ”“bash”“bash
+git clone https://github.com/your-username/knowledge-graph-visualization.gitGit克隆https://github.com/your-username/knowledge-graph-visualization.gitGit克隆https://github.com/your-username/knowledge-graph-visualization.git
 cd knowledge-graph-visualization
 ```
 
 2. **安装依赖**
-```bash   ”“bash
-pip install -r requirements.txt
+```bash   ”“bash   ”“bash”“bash
+pip install -r requirements.txtPIP install -r requirements.txt
 ```
 
 > **requirements.txt** 内容:
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 > networkx
 > pyvis
 > jinja2
-> requests
+> requests   >请求
 > tiktoken
 > openai
 > ```
@@ -49,16 +49,16 @@ pip install -r requirements.txt
 
 编辑 `config.py` 文件进行个性化配置：
 
-```python   ”“python
+```python   ”“python   ”“python”“python
 # 知识图谱生成配置
-KG_CONFIG = {   Kg_config = {
+KG_CONFIG = {   Kg_config = {KG_CONFIG = {KG_CONFIG = {
     "MODEL_NAME": "deepseek/deepseek-chat",  # 使用的AI模型
     "TEMPERATURE": 0.0,                     # 生成温度参数
     "API_KEY": "your-api-key-here"           # 替换为您的API密钥
 }
 
 # 文件路径配置
-FILE_PATHS = {   File_paths = {
+FILE_PATHS = {   File_paths = {FILE_PATHS = {
     "INPUT_FILE": "input.md",    # 输入Markdown文件路径
     "OUTPUT_HTML": "output.html" # 输出HTML可视化文件路径
 }
@@ -105,7 +105,7 @@ python main.py
 
 ## 示例展示
 
-![Knowledge Graph Visualization](https://via.placeholder.com/800x400?text=Knowledge+Graph+VIsualization+Example)！【知识图谱可视化】（https://via.placeholder.com/800x400?text=Knowledge图谱可视化示例）
+![Knowledge Graph Visualization](https://github.com/mochen555/Rag-kg/blob/main/sample/1751594852836.jpg)！【知识图谱可视化】（https://via.placeholder.com/800x400?text=Knowledge图谱可视化示例）
 
 ## 自定义选项
 
