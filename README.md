@@ -49,9 +49,9 @@ pip install -r requirements.txtPIP install -r requirements.txtPIP install -r要�
 
 编辑 `config.py` 文件进行个性化配置：
 
-```python   ”“python   ”“python”“python
+```python   ”“python   ”“python”“python‘ ’ ' python " " python " " python " " python " " python
 # 知识图谱生成配置
-KG_CONFIG = {   Kg_config = {KG_CONFIG = {KG_CONFIG = {
+KG_CONFIG = {   Kg_config = {KG_CONFIG = {KG_CONFIG = {KG_CONFIG = {KG_CONFIG = {KG_CONFIG = {KG_CONFIG = {
     "MODEL_NAME": "deepseek/deepseek-chat",  # 使用的AI模型
     "TEMPERATURE": 0.0,                     # 生成温度参数
     "API_KEY": "your-api-key-here"           # 替换为您的API密钥
@@ -105,8 +105,8 @@ python main.py
 
 ## 示例展示
 
-![Knowledge Graph Visualization](https://github.com/mochen555/Rag-kg/blob/main/sample/1751594852836.jpg)！【知识图谱可视化】（https://via.placeholder.com/800x400?text=Knowledge图谱可视化示例）
-![1751594852836](https://github.com/user-attachments/assets/e2baa070-64f9-4fe8-a930-3b71038b31c6)
+[]
+
 
 
 ## 自定义选项
