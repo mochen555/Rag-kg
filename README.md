@@ -25,14 +25,14 @@ project/   项目/   项目/
 ## 安装说明
 
 1. **克隆仓库**
-```bash   ”“bash   ”“bash”“bash
+```bash   ”“bash   ”“bash”“bash‘ ’ ' bash " " bash " " bash " “ bash ”
 git clone https://github.com/your-username/knowledge-graph-visualization.gitGit克隆https://github.com/your-username/knowledge-graph-visualization.gitGit克隆https://github.com/your-username/knowledge-graph-visualization.git
 cd knowledge-graph-visualization
 ```
 
 2. **安装依赖**
-```bash   ”“bash   ”“bash”“bash
-pip install -r requirements.txtPIP install -r requirements.txt
+```bash   ”“bash   ”“bash”“bash‘ ’ ' bash " " bash " " bash " “ bash ”
+pip install -r requirements.txtPIP install -r requirements.txtPIP install -r要求。txtPIP install -r requirements.txt
 ```
 
 > **requirements.txt** 内容:
@@ -91,7 +91,7 @@ VIS_CONFIG = {
 
 ## 运行程序
 
-```bash   ”“bash   ”“bash”“bash
+```bash   ”“bash   ”“bash”“bash‘ ’ ' bash " " bash " " bash " “ bash ”
 python main.py
 ```
 
@@ -106,6 +106,8 @@ python main.py
 ## 示例展示
 
 ![Knowledge Graph Visualization](https://github.com/mochen555/Rag-kg/blob/main/sample/1751594852836.jpg)！【知识图谱可视化】（https://via.placeholder.com/800x400?text=Knowledge图谱可视化示例）
+![1751594852836](https://github.com/user-attachments/assets/e2baa070-64f9-4fe8-a930-3b71038b31c6)
+
 
 ## 自定义选项
 
